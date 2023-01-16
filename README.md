@@ -1,5 +1,6 @@
 ## FuncionLambda-aws--MercadoPago
-
+## Author
+- BRIAN CASTRO
 # Comenzando 🚀
 Esta función se crea con el propósito de usarlo en lambda AWS.
 
